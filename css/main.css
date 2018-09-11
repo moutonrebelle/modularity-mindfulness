@@ -1,4 +1,7 @@
 html {
   background-color: #e2e2e2;
-  font-family: "Noto Sans Japanese", sans-serif;
+}
+
+.font-ja {
+    font-family: "Noto Sans Japanese", sans-serif;
 }
